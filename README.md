@@ -8,4 +8,4 @@
 利用一个函数生成数据，对神经元进行训练和测试。神经元经训练后完美拟合该函数。
 
 实验结果：
-https://github.com/moqiumachao/Neural/blob/master/res.PNG
+![login](https://github.com/moqiumachao/Neural/blob/master/res.PNG)
